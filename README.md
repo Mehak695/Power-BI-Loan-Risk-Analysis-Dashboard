@@ -172,7 +172,7 @@ Suspicious transactions contribute significantly to total fraud losses.
 ---
 ## SCREENSHOTS
 
-![Dashboard ](Dashboard.Jpeg)
+![Dashboard](Dashboard.jpeg)
 ![Dashboard 2](Dashboard1.jpeg)
 ![Dashboard 3](Dashboard2.jpeg)
 ![Dashboard 4](Dashboard3.jpeg)
